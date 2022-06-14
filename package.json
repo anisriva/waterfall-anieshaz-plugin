@@ -1,5 +1,5 @@
 {
-  "name": "waterfall-anieshaz-plugin",
+  "name": "@anieshaz/waterfall-anieshaz-plugin",
   "version": "0.1.0",
   "description": "Waterfall Horizontal Bars Plugin by @anieshaz",
   "sideEffects": false,
@@ -41,5 +41,16 @@
     "process": "^0.11.10",
     "rimraf": "^3.0.2",
     "typescript": "^4.5.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisriva/waterfall-anieshaz-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anisriva/waterfall-anieshaz-plugin/issues"
+  },
+  "homepage": "https://github.com/anisriva/waterfall-anieshaz-plugin#readme"
 }
